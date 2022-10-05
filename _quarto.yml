@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: "Hoff To Somewhere New"
+  navbar:
+    contents:
+      -index.qmd
+format:
+  html:
+    theme: materia
+    css: styles.css
+
+editor: visual
+
